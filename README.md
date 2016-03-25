@@ -10,22 +10,18 @@ http://sakura.weathermap.jp/area.php?city=Tokyo
 
 ##### daiskeh 会社関連
 
-- [X] 3/28会社
+- [X] 3/26 会社
+- [ ] 3/28 部署
+- [ ] 3/29 ビル
 - [X] 3/30 部署
 - [X] 3/31 ビル
 
 **本命**
 
-:   ◎ 0329 花見肉林
-
-**半蔵門ベローチェ**
-
-:   ○ 0326 花見PFFF
-
 *doubt*
 
 :   ▲ 0401 APE Little Hulu
 
-##### Gol (Goal) 香港 20160402
+##### Gol (Goal) 20160402
 
 
