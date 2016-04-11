@@ -24,4 +24,4 @@ http://sakura.weathermap.jp/area.php?city=Tokyo
 
 ##### Gol (Goal) 20160402
 
-
+test verified.
