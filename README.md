@@ -1,27 +1,29 @@
-# 花見 2016
+# そのこころは？
 
-http://sakura.weathermap.jp/area.php?city=Tokyo
+日本語って面白い。
 
-### Timeline
+例えばGoogle翻訳を利用するとき、私達人間はきちんとした結果を得られるよう主語述語を正確に書こうとします。
 
-開花宣言 20160318
+日本語から英語への翻訳はそれに加えて人称 + 感情を加えてあげるだけで結果が変わってきます。
 
-満開予想 20160328
+`ja-JP` (1041)
+:   書きたくないけど抑えられず書いてしまった
 
-##### daiskeh done
+`en-US` (1033)
+:   Had written not suppressed but I do not want to write
 
-- [X] 
-- [ ] 
-- [ ] 
-- [X] 
-- [X] 
+は
 
-**本命**
+`ja-JP` (1041)
 
-*doubt*
+> （自分で）書きたくないけど、（自分がどうにかなってしまいそうなのを）抑えられず、（自分が可哀想なので）書いてしまった。
 
-:   ▲ 0401 APE Little Hulu
+とするとより正確な翻訳結果を得られます。
 
-##### Gol (Goal) 20160402
+`en-US` (1033)
 
-test verified.
+> do not want to write your own, I had written because the poor not be suppressed the likely become somehow.
+
+あれ？
+
+ま、まあ、ましにはなったでしょ。
